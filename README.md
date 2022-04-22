@@ -1,8 +1,7 @@
 
 # 👋Taegeun Kang👋
 #### :rocket: Blockchain, Backend Developer  :rocket:
-:earth_asia: I'm based in Seoul
-majored in computer science.  
+:earth_asia: I'm based in Seoul and majored in computer science.  
 Now Studying BlockChain, Etheruem, Terra.:fire:
 
 ### :book: Tech Stack 
