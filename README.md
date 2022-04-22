@@ -1,29 +1,16 @@
-Hi 👋 My name is Taegeun Kang
-=============================
 
-BlockChain, Backend Developer
------------------------------
+# Taegeun Kang👋
+#### :rocket: Blockchain, Backend Developer  :rocket:
+:earth: I'm based in Seoul
+majored in computer science.
+Now Studying BlockChain, Etheruem, Terra.:fire:
 
-I majored in computer engineering and started with SpringBoot, but now I am studying blockchain, smartcontract(ethereum, terra).
+### Tech Skills :book:
 
-*   🌍  I'm based in Seoul
-*   ✉️  You can contact me at [pregea@icloud.com](mailto:pregea@icloud.com)
-*   🧠  I'm learning Ethereum, Terra### Skills<p align="left">
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-                                <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
-                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-                    </p>
-                    
-### Socials
+<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/> <img alt="Rust" src ="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
 
-<p align="left"> <a href="https://www.github.com/taegeunkang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Contact
+<a href="mailto:pregea@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/taegeunkang"><img src="https://github-readme-stats.vercel.app/api?username=taegeunkang&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="taegeunkang's GitHub stats" /></a>
+![Taegeun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegeunkang&show_icons=true&count_private=true&text_color=FFFFFF&title_color=31A8FF&icon_color=F47D31&bg_color=000000&border_color=31A8FF)
