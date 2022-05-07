@@ -16,8 +16,8 @@ Now Studying BlockChain, Etheruem, Terra.:fire:
 
 
 
-CryptoZombies ✅
-TerraAcademy ✅
-Ethernaut(1 ~ 20) ✅
-SpeedRunEthereum on_going...
-BuildSpace :star on_going...
+CryptoZombies ✅  
+TerraAcademy ✅  
+Ethernaut(1 ~ 20) ✅  
+SpeedRunEthereum on_going...  
+BuildSpace :star on_going...  
