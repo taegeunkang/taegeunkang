@@ -19,5 +19,5 @@ Now Studying BlockChain, Etheruem, Terra.:fire:
 CryptoZombies ✅  
 TerraAcademy ✅  
 Ethernaut(1 ~ 20) ✅  
-SpeedRunEthereum on_going...  
-BuildSpace on_going...  
+SpeedRunEthereum (challenge 4 on_going...)  
+
