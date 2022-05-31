@@ -14,10 +14,3 @@ Now Studying BlockChain, Etheruem, Terra.:fire:
 
 ![Taegeun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegeunkang&show_icons=true&count_private=true&text_color=FFFFFF&title_color=31A8FF&icon_color=F47D31&bg_color=000000&border_color=31A8FF)
 
-
-
-CryptoZombies ✅  
-TerraAcademy ✅  
-Ethernaut(1 ~ 20) ✅  
-SpeedRunEthereum (challenge 4 on_going...)  
-
