@@ -1,8 +1,7 @@
 
 # 👋Taegeun Kang👋
 ### :rocket:  Backend Developer  :rocket:
-:earth_asia: I'm based in Seoul and majored in computer science.  
-:fire:
+:earth_asia: I'm based in Seoul and majored in computer science. :fire:
 
 ### :book: Tech Stack 
 
