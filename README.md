@@ -1,8 +1,8 @@
 
 # 👋Taegeun Kang👋
-### :rocket:  Smart Contract Developer  :rocket:
+### :rocket:  Backend Developer  :rocket:
 :earth_asia: I'm based in Seoul and majored in computer science.  
-Etheruem, Terra, Solana :fire:
+:fire:
 
 ### :book: Tech Stack 
 
