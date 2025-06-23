@@ -11,6 +11,3 @@
 ### ✉️ Contact 
 <a href="mailto:deankang0918@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
-
-![Taegeun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegeunkang&show_icons=true&count_private=true&text_color=FFFFFF&title_color=31A8FF&icon_color=F47D31&bg_color=000000&border_color=31A8FF)
-
